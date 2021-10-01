@@ -39,7 +39,9 @@ b.addheaders = [('User-agent',
 
 username = input('\033[1;37musername: \033[1;37m')
 passwordList = input('\033[1;37mpassword : \033[1;37m')
-
+ logging.basicConfig()
+    try:
+    
 def Twitter():
     password = open(passwordList).read().splitlines()
     try_login = 0

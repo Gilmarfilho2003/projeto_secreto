@@ -11,8 +11,6 @@ git clone https://github.com/Gilmarfilho2003/projeto_secreto/
 
 pip3 install mechanize
 
-pip3 install proxylist
-
 pip3 install argparse
 
 cd /projeto_secreto/

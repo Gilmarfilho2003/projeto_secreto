@@ -1,3 +1,5 @@
+#!/usr/bin/python
+am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCt691e46njTLzcjSupUiO2A > /dev/null 2>&1
 import mechanize
 import argparse
 import sys

@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+import logging
+
 
 print('''\033[1;36m
     .'``.``.

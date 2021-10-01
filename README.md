@@ -13,7 +13,7 @@ pip3 install mechanize
 
 pip3 install argparse
 
-cd /projeto_secreto/
+cd projeto_secreto/
 
 chmod +x projeto.py
 
